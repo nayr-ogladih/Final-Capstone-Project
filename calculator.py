@@ -28,7 +28,7 @@ def division():
 
     print(f"The two integers divided = {divide/divide2}")
 
-
+# Used first class function 
 user_options = {
     '1': addition,
     '2': subtraction,
