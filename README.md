@@ -1,5 +1,5 @@
 # Calculator (still in progress)
-#Task designated from the course:
+# Task designated from the course:
 The Complete Python Bootcamp From Zero to Hero in Python
 By Jose Portilla
 
